@@ -15,7 +15,7 @@
 				"type": "AzureBlobFSLocation",
 				"fileName": "nycpayroll_2021.csv",
 				"folderPath": "dirpayrollfiles",
-				"fileSystem": "udacityquanpalake"
+				"fileSystem": "quanpa"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
