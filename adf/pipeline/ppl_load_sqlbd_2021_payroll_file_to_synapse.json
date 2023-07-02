@@ -1,9 +1,9 @@
 {
-	"name": "ppl_load_emp_file_to_synapse",
+	"name": "ppl_load_sqlbd_2021_payroll_file_to_synapse",
 	"properties": {
 		"activities": [
 			{
-				"name": "df_emp_file_to_synapse",
+				"name": "df_sqlbd_2021_payroll_file_to_synapse",
 				"type": "ExecuteDataFlow",
 				"dependsOn": [],
 				"policy": {
@@ -16,7 +16,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"dataflow": {
-						"referenceName": "df_emp_file_to_synapse",
+						"referenceName": "df_sqlbd_2021_payroll_file_to_synapse",
 						"type": "DataFlowReference"
 					},
 					"staging": {
