@@ -1,0 +1,9 @@
+{
+	"name": "udacity-quanpa-adf",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8c109cc1-bd21-497e-82b8-b9fb2482479e",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
