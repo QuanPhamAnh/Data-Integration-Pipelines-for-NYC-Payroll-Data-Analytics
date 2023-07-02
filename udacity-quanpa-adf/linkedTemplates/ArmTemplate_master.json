@@ -21,7 +21,7 @@
 		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"type": "string",
-			"defaultValue": "https://udacityquanpalake.dfs.core.windows.net/"
+			"defaultValue": "https://quanpa.dfs.core.windows.net/"
 		},
 		"containerUri": {
 			"type": "string",
