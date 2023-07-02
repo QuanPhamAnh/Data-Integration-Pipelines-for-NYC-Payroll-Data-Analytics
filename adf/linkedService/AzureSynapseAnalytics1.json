@@ -1,0 +1,12 @@
+{
+	"name": "AzureSynapseAnalytics1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDW",
+		"typeProperties": {
+			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=udacity-quanpa-synapse-ondemand.sql.azuresynapse.net;initial catalog=udacity-quanpa-pool;user id=quanpa",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDhGNDUxNDZELTFERkEtNEEyOC1BMDc5LUNCMzFGRjVGNzMzNF80YmMwYTk0Zi1iNjEwLTQ4ZmYtOGY1My0xODM4MWE4NzBlMTYiDQp9"
+		}
+	}
+}
